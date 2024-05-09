@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Live Demo Link
 
-https://sadhanasharma1.github.io/TextGame/
+https://rishabh180705.github.io/word-game/
 
 ## Available Scripts
 
